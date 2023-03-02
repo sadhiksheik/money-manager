@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.display-amounts-container {
+  display: flex;
+  width: 80%;
+}
+.li-container {
+  display: flex;
+  border: #ecfccb, 1px, solid;
+  border-radius: 9px;
+  height: 100px;
+  width: 300px;
+  background-color: #ecfccb;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.img {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.sub-container {
+  margin-left: 20px;
+}
+.sector-name {
+  color: #334155;
+  font-size: 13px;
+}
+.amount {
+  font-size: 20px;
+  color: #475569;
+}
+.li-container2 {
+  display: flex;
+  border: #cffafe, 1px, solid;
+  border-radius: 9px;
+  height: 100px;
+  width: 300px;
+  background-color: #cffafe;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
